@@ -128,18 +128,33 @@ const currentYear = new Date().getFullYear()
           </thead>
           <tbody>
             <tr>
-              <td>Lunes y Miercoles</td>
-              <td>20:00 - 21:30</td>
+              <td>Lunes</td>
+              <td>20:00 - 22:00</td>
+              <td> - </td>
+            </tr>
+            <tr>
+              <td>Martes</td>
+              <td>20:00 - 22:00</td>
+              <td>18:30 - 19:30</td>
+            </tr>
+            <tr>
+              <td>Miercoles</td>
+              <td>20:00 - 22:00</td>
+              <td> - </td>
+            </tr>
+            <tr>
+              <td>Jueves</td>
+              <td>20:00 - 22:00</td>
               <td>18:30 - 19:30</td>
             </tr>
             <tr>
               <td>Viernes</td>
-              <td>19:30 - 21:00</td>
-              <td>18:00 - 19:00</td>
+              <td>19:30 - 21:30</td>
+              <td> - </td>
             </tr>
             <tr>
-              <td>Sabado (practica abierta)</td>
-              <td colspan="2">10:00 - 12:00</td>
+              <td>Sabado (practica libre)</td>
+              <td>16:00 - 18:00</td>
             </tr>
           </tbody>
         </table>
@@ -150,7 +165,7 @@ const currentYear = new Date().getFullYear()
       <div class="footer-content">
         <div>
           <h4>Conecta con Espacio Nagare</h4>
-          <p>Seguinos para conocer novedades, seminarios y vivencias del dojo.</p>
+          <p>Seguinos para conocer novedades.</p>
           <div class="social-links">
             <a href="https://www.facebook.com/shinshukan.puertomadryn" target="_blank" rel="noreferrer">Facebook</a>
             <a href="https://www.instagram.com/karate.shinshukan.puertomadryn/" target="_blank" rel="noreferrer">Instagram</a>
